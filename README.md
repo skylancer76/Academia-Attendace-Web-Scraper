@@ -5,7 +5,9 @@ This Python project uses Selenium to automate the login and attendance retrieval
 # Prerequisites
 
 Python (Latest Version)
+
 Selenium 
+
 Ensure Chrome Driver is installed and added to your system's PATH.
 
 
